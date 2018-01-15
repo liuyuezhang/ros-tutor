@@ -1,0 +1,8 @@
+<launch>
+    <node pkg="duck_commander" type="eye.py" name="duck_eye" output="screen">
+    </node>
+    <node pkg="duck_commander" type="brain.py" name="duck_brain" output="screen">
+    </node>
+    <node pkg="duck_commander" type="keyboard.py" name="duck_keyboard" output="screen">
+    </node>
+</launch>
