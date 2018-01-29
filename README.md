@@ -1,6 +1,6 @@
 # DuckCommander
 A QR code following mobile car based on ROS and Duckietown. Also a brief tutorial for ROS.  
-Course project for *Computer Network and Application*, Tsinghua University ,  Fall 2017.
+Course project for *Computer Network and Application*, Tsinghua University ,  Fall 2017.  
 Folk from TA's repo [yzxky/Duckietown-Tutorial](https://github.com/yzxky/Duckietown-Tutorial)
 
 ## duck_commander: the ROS package
