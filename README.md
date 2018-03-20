@@ -1,5 +1,5 @@
-# DuckCommander
-A QR code following mobile car based on ROS and Duckietown. Also a brief tutorial for ROS.  
+# ros-tutor
+A mobile car following QR code based on ROS and Duckietown. Also a brief tutorial for ROS.  
 Course project for Computer Network and Application, Tsinghua University, 2017-Fall.  
 Folk from TA's repo [yzxky/Duckietown-Tutorial](https://github.com/yzxky/Duckietown-Tutorial)
 
@@ -11,4 +11,4 @@ Folk from TA's repo [yzxky/Duckietown-Tutorial](https://github.com/yzxky/Duckiet
 #### notes
 * ros.md: ROS tutorial
 * ubuntu.md: Ubuntu tutorial
-* duckietown: duckietown tutorial
+* duckietown: Duckietown tutorial
