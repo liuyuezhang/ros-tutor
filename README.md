@@ -1,14 +1,17 @@
 # ros-tutor
-A mobile car following QR code based on ROS and Duckietown. Also a brief tutorial for ROS.  
-Course project for Computer Network and Application, Tsinghua University, 2017-Fall.  
-Folk from TA's repo [yzxky/Duckietown-Tutorial](https://github.com/yzxky/Duckietown-Tutorial)
+A brief tutorial for ROS.  
 
-#### duck_commander: the ROS package
+#### duck_commander
+* ROS package example in Python: a mobile car following QR code based on ROS and Duckietown 
 * duck_eye: QR code segmentation
 * duck_brain: ROS listener and publisher
 * duck_ear: Python keyboard controller
 
+#### rviz_bulldog_commander
+* ROS package example in C++: ROS rviz plugin (rqt)
+
 #### notes
 * ros.md: ROS tutorial
 * ubuntu.md: Ubuntu tutorial
-* duckietown: Duckietown tutorial
+* duckietown: Duckietown tutorial  
+* Partly folk from the Teaching Assistant's repo [yzxky/Duckietown-Tutorial](https://github.com/yzxky/Duckietown-Tutorial)
